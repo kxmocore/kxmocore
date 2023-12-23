@@ -6,8 +6,8 @@ Estou iniciando na programação, veja meus projetos e as linguagens que estou a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxmocore&icons=true&theme=gotham)](https://github.com/kxmocore/github-readme-stats)
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/toquinhaman/](https://www.instagram.com/kumocore/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/christian-oliveira-925532257/](https://www.linkedin.com/in/leandro-henrique-95b722254/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kumocore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-henrique-95b722254/)
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
