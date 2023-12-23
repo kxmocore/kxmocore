@@ -15,8 +15,7 @@ Estou iniciando na programação, veja meus projetos e as linguagens que estou a
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kbrsedukof&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kbrsedukof&redirect=true)
 
-# Linguagens
-
+# Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
