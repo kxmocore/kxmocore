@@ -1,6 +1,5 @@
-### Olá!!! Eu sou o Leandro Henrique 🐍 
-Estou iniciando na programação, veja meus projetos e as linguagens que estou aprendendo abaixo!
-         
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=1000&pause=1000&color=007E3D&random=false&width=435&lines=Oi%2C+meu+nome+%C3%A9+Leandro!;Sou+estudante+C%23)](https://git.io/typing-svg)
+
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=kxmocore&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kxmocore&icons=true&theme=gotham)](https://github.com/kxmocore/github-readme-stats)
